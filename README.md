@@ -1,2 +1,2 @@
-# Patatacaliente
+# PSEINT EJERCICIOS
 PSEINT EJERCICIOS
